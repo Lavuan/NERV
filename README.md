@@ -2,24 +2,18 @@
   <img src="favicon.ico">
 </p>
 
-<h1 align="center"><strong>startpage</strong>
+<h1 align="center"><strong>startpage</strong></h1>
 
-<p align="center">
+[startpage by Alededorgio](https://github.com/Alededorigo/startpage)
   <a href="https://github.com/Alededorigo/startpage/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/alededorigo/kanji?color=%23cd58f4&style=flat">
+    <img align="right" src="https://img.shields.io/github/license/alededorigo/kanji?color=%23cd58f4&style=flat">
   </a>
   <a href="https://github.com/Alededorigo/startpage/releases">
-    <img src="https://img.shields.io/github/v/release/alededorigo/kanji?color=ee4f84&include_prereleases&style=flat">
+    <img align="right" src="https://img.shields.io/github/v/release/alededorigo/kanji?color=ee4f84&include_prereleases&style=flat">
   </a>
   <a href="https://github.com/Alededorigo/startpage/commits/main">
-    <img src="https://img.shields.io/github/last-commit/alededorigo/kanji?color=%231ce590&style=flat">
-  </a>
-</p>
-</h1>
+    <img align="right" src="https://img.shields.io/github/last-commit/alededorigo/kanji?color=%231ce590&style=flat">
 
-<br />
-
-# **A startpage for the browser**
 
 ## Release v3.1 <img alt="" align="right" src="https://img.shields.io/github/repo-size/alededorigo/kanji?color=%2358d0f4&style=flat"/>
 
@@ -66,5 +60,6 @@
 
 ## Credits:
 
-- [Font for greetings](https://www.1001fonts.com/electroharmonix-font.html)
-- [Image on left](https://wallpapercave.com/mt-fuji-wallpaper)
+- [Default font for greetings](https://www.1001fonts.com/electroharmonix-font.html)
+- [The rest of newly added fonts](https://fonts.google.com/)
+- [Default image on left](https://wallpapercave.com/mt-fuji-wallpaper)
