@@ -5,10 +5,10 @@ var data = {
     // -------------------------------------------------
     // Greetings config. Change greetings from here
 
-    g1: "おやすみなさい", // From 23:00 to 5:00
-    g2: "おはようございます", // Until 12:00
-    g3: "こんにちは", // Until 17:00
-    g4: "おやすみなさい", // Rest of the time
+    g1: "お や す み な さ い", // From 23:00 to 5:00
+    g2: "お は よ う ご ざ い ま す", // Until 12:00
+    g3: "こ ん に ち は", // Until 17:00
+    g4: "お や す み な さ い", // Rest of the time
 
     // Font size of the greeting
     greeting_fontsize: "40px",
@@ -35,12 +35,12 @@ var data = {
     // Color of the border
     image_bordercolor: "#79acf3",
     // Filters for the image.
-    image_filter: "grayscale(0%) brightness(60%)",
+    image_filter: "grayscale(0%) brightness(100%)",
     // Width/height for the image
     image_width: "300px",
     // Image source: you can use local files, or a link
     // Ex.: image_source: "/img/kanji.jpg"
-    image_source: "https://raw.githubusercontent.com/Lavuan/startpage/main/img/IMG291.jpg",
+    image_source: "https://raw.githubusercontent.com/Lavuan/startpage/main/img/panda.gif",
 
     // -------------------------------------------------
     // Enable/disable site icons
