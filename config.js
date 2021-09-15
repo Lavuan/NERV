@@ -37,10 +37,10 @@ var data = {
     // Filters for the image.
     image_filter: "grayscale(0%) brightness(100%)",
     // Width/height for the image
-    image_width: "500px",
+    image_width: "300px",
     // Image source: you can use local files, or a link
     // Ex.: image_source: "/img/kanji.jpg"
-    image_source: "https://raw.githubusercontent.com/Lavuan/startpage/main/img/panda.gif",
+    image_source: "https://raw.githubusercontent.com/Lavuan/startpage/main/img/tom.png",
 
     // -------------------------------------------------
     // Enable/disable site icons
