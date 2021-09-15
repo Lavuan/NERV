@@ -12,9 +12,9 @@
 }
 
 :root {
-  --dark-bg: #111217;
-  --white-bg: #eeeeee;
-  --white-alt: #c4c4c4;
+  --dark-bg: ##0A0E12;
+  --white-bg: #fefefc;
+  --white-alt: #f2f2f0;
 }
 
 ::selection {
