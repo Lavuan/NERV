@@ -4,7 +4,7 @@
 
 <h1 align="center"><strong>startpage</strong></h1>
 
-[startpage by Alededorgio](https://github.com/Alededorigo/startpage)
+[Kanji](https://github.com/bbkrealm/Kanji)
   <a href="https://github.com/Alededorigo/startpage/blob/main/LICENSE">
     <img align="right" src="https://img.shields.io/github/license/alededorigo/kanji?color=%23cd58f4&style=flat">
   </a>
