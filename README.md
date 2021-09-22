@@ -2,20 +2,18 @@
   <img src="favicon.ico">
 </p>
 
-<h1 align="center"><strong>startpage</strong></h1>
-
 [Kanji](https://github.com/bbkrealm/Kanji)
-  <a href="https://github.com/Alededorigo/startpage/blob/main/LICENSE">
-    <img align="right" src="https://img.shields.io/github/license/alededorigo/kanji?color=%23cd58f4&style=flat">
+  <a href="https://github.com/bbkrealm/startpage/blob/main/LICENSE">
+    <img align="right" src="https://img.shields.io/github/license/bbkrealm/kanji?color=%23cd58f4&style=flat">
   </a>
-  <a href="https://github.com/Alededorigo/startpage/releases">
-    <img align="right" src="https://img.shields.io/github/v/release/alededorigo/kanji?color=ee4f84&include_prereleases&style=flat">
+  <a href="https://github.com/bbkrealm/startpage/releases">
+    <img align="right" src="https://img.shields.io/github/v/release/bbkrealm/kanji?color=ee4f84&include_prereleases&style=flat">
   </a>
-  <a href="https://github.com/Alededorigo/startpage/commits/main">
-    <img align="right" src="https://img.shields.io/github/last-commit/alededorigo/kanji?color=%231ce590&style=flat">
+  <a href="https://github.com/bbkrealm/startpage/commits/main">
+    <img align="right" src="https://img.shields.io/github/last-commit/bbkrealm/kanji?color=%231ce590&style=flat">
 
 
-## Release v3.1 <img alt="" align="right" src="https://img.shields.io/github/repo-size/alededorigo/kanji?color=%2358d0f4&style=flat"/>
+## Release v3.1 <img alt="" align="right" src="https://img.shields.io/github/repo-size/bbkrealm/kanji?color=%2358d0f4&style=flat"/>
 
 [**Changelog**](https://github.com/Alededorigo/startpage/blob/main/changelog.md) <kbd>v3.1</kbd>:
 
