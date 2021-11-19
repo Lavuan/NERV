@@ -1,17 +1,22 @@
 <p align="center">
-  <img src="cat_blanket.png">
+  <img width="190px" src="nerv.png">
 </p>
 
-Based on Kanji v3.1 
 
+<h2 align="center">God’s in His Heaven – All’s Right With the World.</h2>
+
+NERV + Outrun inspired based on Kanji v3.1 
+<br />
+<br />
+<br />
 ## Changing links:
 
 ```html
 <div class="column">
   <p>SECTION TITLE</p>
-  <a class="link" href="WEBSITE LINK">WEBSITE NAME</a>
+  <a class="link" href="WEBSITE LINK"> WEBSITE NAME </a>
   <!-- To make a link opening in a new tab, add 'target="_BLANK"' inside the link tag: -->
-  <a target="_BLANK"></a>
+  <a target="_BLANK" class="link" href="WEBSITE LINK"> WEBSITE NAME </a>
 </div>
 ```
 
@@ -35,6 +40,5 @@ Based on Kanji v3.1
 
 ## Credits:
 
-- [Default font for greetings](https://www.1001fonts.com/electroharmonix-font.html)
-- [The rest of newly added fonts](https://fonts.google.com/)
-- [Default image on left](https://wallpapercave.com/mt-fuji-wallpaper)
+- [NERV Outrun // Image on left](https://old.reddit.com/r/evangelion/comments/hnftvs/nerv_vaporwave_wallpaper_3840_x_2160/)
+- [NERV Logo // Favicon](https://www.deviantart.com/darqu13/art/NERV-render-191163009)
