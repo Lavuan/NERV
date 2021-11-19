@@ -31,11 +31,11 @@ var data = {
     // Border radius: set it to 50% to create a circle
     image_radius: "10px",
     // Border for the image
-    image_border: "0px",
+    image_border: "3px",
     // Color of the border
-    image_bordercolor: "#79acf3",
+    image_bordercolor: "#bf8ad9",
     // Filters for the image.
-    image_filter: "grayscale(0%) brightness(100%)",
+    image_filter: "grayscale(20%) brightness(85%)",
     // Width/height for the image
     image_width: "300px",
     // Image source: you can use local files, or a link
