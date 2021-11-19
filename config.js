@@ -40,7 +40,7 @@ var data = {
     image_width: "300px",
     // Image source: you can use local files, or a link
     // Ex.: image_source: "/img/kanji.jpg"
-    image_source: "https://raw.githubusercontent.com/Lavuan/startpage/main/img/tom.png",
+    image_source: "/img/diana.png",
 
     // -------------------------------------------------
     // Enable/disable site icons
@@ -49,7 +49,7 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "こ こ か ら 始 め る",
+    title: "Ｌｅｔ’ｓ　Ｇｏ！",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
