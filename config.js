@@ -31,7 +31,7 @@ var data = {
     // Border radius: set it to 50% to create a circle
     image_radius: "10px",
     // Border for the image
-    image_border: "3px",
+    image_border: "2px",
     // Color of the border
     image_bordercolor: "#bf8ad9",
     // Filters for the image.
@@ -44,12 +44,12 @@ var data = {
 
     // -------------------------------------------------
     // Enable/disable site icons
-    enable_icons: true,
+    enable_icons: false,
     links_hover: true,
 
     // -------------------------------------------------
     // Page title
-    title: "Ｌｅｔ’ｓ　Ｇｏ！",
+    title: "Go!",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
