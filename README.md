@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="favicon.ico">
+  <img src="cat_blanket.png">
 </p>
 
 Based on Kanji v3.1 
