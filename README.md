@@ -1,9 +1,11 @@
 <p align="center">
-  <img width="190px" src="nerv.png">
+  <img width="180px" src="nerv.png">
 </p>
 
-
-<h2 align="center">God’s in His Heaven – All’s Right With the World.</h2>
+ <h2 align="center">God’s in His Heaven – All’s Right With the World.</h2>
+<a>
+  <img style="border-radius: 6px" src="https://raw.githubusercontent.com/Lavuan/NERV/main/img/Screenshot.png" alt="Preview" align="center"/>
+</a>
 
 NERV + Outrun inspired based on Kanji v3.1 
 <br />
